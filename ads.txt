@@ -153,3 +153,5 @@ improvedigital.com, 2276, RESELLER
 rubiconproject.com, 17608, RESELLER, 0bfd66d529a55807
 lijit.com,465542,RESELLER,fafdf38b16bf6b2b
 wgplayer.com, WGA5646578530, DIRECT
+
+google.com, pub-9211426283389318, DIRECT, f08c47fec0942fa0
